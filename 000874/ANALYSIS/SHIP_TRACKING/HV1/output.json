@@ -1,0 +1,13 @@
+{
+    "input_parameters": {},
+    "output_parameters": {
+        "efficiencyRaw": 0.0005992808629644426,
+        "efficiencyMuon": 0.0,
+        "efficiencyRaw_err": 0.0002445820681805642,
+        "efficiencyMuon_err": 0.0,
+        "muonWindowMean_x": 261.31019459320214,
+        "muonWindowSigma_x": 64.61596353242996,
+        "muonWindowMean_y": 362.6720462927764,
+        "muonWindowSigma_y": 0.2431095146364705
+    }
+}
