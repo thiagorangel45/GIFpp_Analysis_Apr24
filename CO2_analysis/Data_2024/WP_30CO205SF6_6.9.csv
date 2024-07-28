@@ -1,0 +1,2 @@
+HV_top,HV_bot,current_top,current_bot,muon_stream,gamma_stream,muon_CM,gamma_CM,muon_CS,gamma_CS,muon_CM_err,gamma_CM_err,muon_CS_err,gamma_CS_err,efficiency,eff_error,noiseGammaRate,deltaV,current,deltaV_err
+5800.0,5800.0,2.9000000953674316,0.5,0.0,0.0,1.0,1.1553398058252426,1.0,1.1764705882352942,0.0,0.029126213592232997,0.0,0.030425963488843744,0.0,0.0,6.618070615342912,0.6397058861530668,3.4000000953674316,0.03496974267627517
