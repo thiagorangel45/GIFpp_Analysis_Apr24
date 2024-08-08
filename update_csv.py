@@ -40,8 +40,8 @@ for scan_name in scan_names:
         print(f'File {file_path} does not exist.')
 
 # Save the updated main CSV file
-updated_csv_path = 'updated_2024_data_atWP.csv'
-main_df.to_csv(updated_csv_path, index=False)
+#updated_csv_path = 'updated_2024_data_atWP.csv'
+#main_df.to_csv(updated_csv_path, index=False)
 
 
 # import pandas as pd
@@ -57,7 +57,7 @@ main_df.to_csv(updated_csv_path, index=False)
 # df.drop(columns=columns_to_drop, inplace=True)
 
 # # Path to save the updated CSV file
-# output_csv_path = '2023_data_atWP.csv'
+output_csv_path = '2023_data_atWP.csv'
 
 # # Save the updated DataFrame to a new CSV file
-# df.to_csv(output_csv_path, index=False)
+df.to_csv(output_csv_path, index=False)
